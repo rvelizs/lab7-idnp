@@ -35,9 +35,12 @@ public class BuildingAdapter extends RecyclerView.Adapter<BuildingAdapter.Buildi
         holder.tvCategory.setText(building.getCategory());
         holder.tvDescription.setText(building.getDescription());
 
-        Glide.with(holder.itemView.getContext())
-                .load(building.getImageUrl())
-                .into(holder.imageView);
+        // Obtener el ID del recurso de la imagen
+        int imageResourceId = holder.itemView.getContext().getResources()
+                .getIdentifier(building.getImageUrl(), "drawable", holder.itemView.getContext().getPackageName());
+
+        // Asignar la imagen al ImageView
+        holder.imageView.setImageResource(imageResourceId);
     }
 
     @Override
