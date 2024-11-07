@@ -1,7 +1,15 @@
 catedral_aqp_lab7,Catedral de Arequipa,Categoría A,Un destino infaltable en la Ciudad Blanca es visitar su plaza principal , la catedral y sus arcos construidos en sillar
 monasterio_santa_catalina_lab7,Monasterio de Santa Catalina,Categoría A,Un monumento religioso icónico de Arequipa, es conocido como una "ciudadela" en el centro de la ciudad, con claustros y calles de sillar de coloridas paredes.
 mirador_carmen_alto_lab7,Mirador de Carmen Alto,Categoría B,Un mirador en la campiña de Arequipa, desde donde se aprecian vistas panorámicas de los volcanes y la ciudad rodeada de terrazas agrícolas.
-iglesia_la_compañia_lab7,Iglesia de la Compañía,Categoría A,Construida en el siglo XVII, destaca por su fachada barroca en sillar y su impresionante altar dorado en su interior.
+iglesia_la_compania_lab7,Iglesia de la Compañía,Categoría A,Construida en el siglo XVII, destaca por su fachada barroca en sillar y su impresionante altar dorado en su interior.
 puente_bolognesi_lab7,Puente Bolognesi,Categoría B,Un puente histórico sobre el río Chili, construido en sillar y considerado una obra de ingeniería importante para la época colonial.
 mansion_del_fundador_lab7,Mansión del Fundador,Categoría B,Una construcción colonial situada a las afueras de la ciudad, es una casa señorial que perteneció al fundador de Arequipa.
 iglesia_san_agustin_lab7,Iglesia de San Agustín,Categoría A,Famosa por su portada tallada en sillar, esta iglesia representa el esplendor del estilo barroco andino en Arequipa.
+museo_santuarios_andinos_lab7, Museo Santuarios Andinos, Categoría A,Un museo en el centro de Arequipa que alberga a la momia Juanita, una de las momias mejor conservadas del mundo, y otros artefactos importantes de la época inca.
+molino_sabandia_lab7, Molino de Sabandía, Categoría B,Un antiguo molino de piedra construido en el siglo XVII, ubicado en la campiña de Arequipa, rodeado de naturaleza y arroyos.
+iglesia_san_francisco_lab7, Iglesia de San Francisco, Categoría A,Una iglesia barroca del siglo XVI, famosa por su fachada de sillar y su complejo que incluye un convento y claustros.
+casa_tristan_del_pozo_lab7, Casa Tristán del Pozo, Categoría A,Una casona colonial ubicada en el centro histórico, famosa por su arquitectura virreinal y sus detalles ornamentales en sillar.
+barrio_san_lazaro_lab7, Barrio de San Lázaro, Categoría C,El barrio más antiguo de Arequipa, conocido por sus angostas calles de piedra, casonas y su ambiente tranquilo, ideal para un recorrido cultural.
+puente_ferroviario_lab7, Puente Ferroviario, Categoría C,Un antiguo puente de hierro utilizado por el tren, que cruza el río Chili y ofrece una vista diferente de la ciudad y los volcanes circundantes.
+parque_selva_alegre_lab7, Parque Selva Alegre, Categoría C,Un parque amplio en el centro de Arequipa, con áreas verdes, lagunas artificiales y espacios de recreación, ideal para paseos familiares y actividades al aire libre.
+mercado_san_camilo_lab7, Mercado San Camilo, Categoría C,Un mercado tradicional que data de la época colonial, donde se pueden encontrar productos locales, artesanías y una variedad de ingredientes típicos de la región.
