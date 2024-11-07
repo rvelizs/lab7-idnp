@@ -2,6 +2,6 @@ catedral_aqp_lab7,Catedral de Arequipa,Categoría A,Un destino infaltable en la 
 monasterio_santa_catalina_lab7,Monasterio de Santa Catalina,Categoría A,Un monumento religioso icónico de Arequipa, es conocido como una "ciudadela" en el centro de la ciudad, con claustros y calles de sillar de coloridas paredes.
 mirador_carmen_alto_lab7,Mirador de Carmen Alto,Categoría B,Un mirador en la campiña de Arequipa, desde donde se aprecian vistas panorámicas de los volcanes y la ciudad rodeada de terrazas agrícolas.
 iglesia_la_compañia_lab7,Iglesia de la Compañía,Categoría A,Construida en el siglo XVII, destaca por su fachada barroca en sillar y su impresionante altar dorado en su interior.
-puente_bolognesi_lab7,Ponte Bolognesi,Categoría B,Un puente histórico sobre el río Chili, construido en sillar y considerado una obra de ingeniería importante para la época colonial.
+puente_bolognesi_lab7,Puente Bolognesi,Categoría B,Un puente histórico sobre el río Chili, construido en sillar y considerado una obra de ingeniería importante para la época colonial.
 mansion_del_fundador_lab7,Mansión del Fundador,Categoría B,Una construcción colonial situada a las afueras de la ciudad, es una casa señorial que perteneció al fundador de Arequipa.
 iglesia_san_agustin_lab7,Iglesia de San Agustín,Categoría A,Famosa por su portada tallada en sillar, esta iglesia representa el esplendor del estilo barroco andino en Arequipa.
